@@ -81,7 +81,8 @@
                 "virtio",
                 "gop",
                 "none",
-                "bochs"
+                "bochs",
+                "ramfb"
             ]
         },
         "hw_video_ram": {

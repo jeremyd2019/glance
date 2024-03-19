@@ -595,6 +595,7 @@ Here is a list of useful image properties and the values they expect.
   * ``gop``
   * ``none``
   * ``bochs``
+  * ``ramfb``
 
   Only supported by the libvirt driver.
 
